@@ -62,7 +62,7 @@ Model deep learning yang digunakan adalah **MediaPipe Hand Landmarker** dari Goo
 **1. Clone repository ini**
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/Master-Megatron/Hand-Pose-Estimation-Using-HRNet-Deep-Learning.git
 cd REPO
 ```
 
