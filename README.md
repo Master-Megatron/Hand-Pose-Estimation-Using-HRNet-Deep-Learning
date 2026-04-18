@@ -19,7 +19,7 @@ Model deep learning yang digunakan adalah **MediaPipe Hand Landmarker** dari Goo
 
 > **[▶️ Tonton Demo Webcam Real-Time](https://github.com/Master-Megatron/Hand-Pose-Estimation-Using-HRNet-Deep-Learning/blob/main/hand%20pose/record_000.mp4)**
 
-![Demo Screenshot](screenshot_demo.jpg)
+![Demo Screenshot](https://github.com/Master-Megatron/Hand-Pose-Estimation-Using-HRNet-Deep-Learning/blob/main/hand%20pose/screenshot_000.jpg)
 
 ---
 
